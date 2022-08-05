@@ -48,7 +48,7 @@ Specifier characters at the end define the type and the interpretation of its co
 
 ## Install
 To install execute in terminal
-git clone https://github.com/Dr-MarcusI/printf
+git clone https://github.com/najnomics/printf
 
 ## Compilation
 
