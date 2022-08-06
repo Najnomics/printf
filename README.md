@@ -48,7 +48,7 @@ Specifier characters at the end define the type and the interpretation of its co
 
 ## Install
 To install execute in terminal
-git clone https://github.com/Dr-MarcusI/printf
+git clone https://github.com/najnomics/printf
 
 ## Compilation
 
@@ -67,8 +67,5 @@ git clone https://github.com/Dr-MarcusI/printf
   + Output: Percent: [%%]
 
 # Flowchart
-
-![printf_flowchart2](https://user-images.githubusercontent.com/106748811/183050914-473d6dfd-1d60-4198-97a6-205e1e7cba81.png)
-
 
 Created by [NOSAKHARE JESUOROBO](https://github.com/najnomics) & [PRAISE DIKE DIKE](https://github.com/freedompraise)
